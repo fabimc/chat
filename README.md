@@ -16,13 +16,13 @@
 
 ## Resources
 
-  - **[POST /api/auth/login](http://chat.dev/api/auth/login) **  
-  - **[GET /api/auth/logout](http://chat.dev/api/auth/logout) **  
-  - **[POST /api/users](http://chat.dev/api/users) **
-  - **[GET /api/users/current](http://chat.dev/api/users/current) **
-  - **[PATCH /api/users/current](http://chat.dev/api/users/current) **
-  - **[GET /api/chats{?page,limit}](http://chat.dev/api/chats?page=1&limit=5) **
-  - **[POST /api/chats](http://chat.dev/api/chats) **
-  - **[PATCH /api/chats/{id}](http://chat.dev/api/chats/1) **
-  - **[GET /api/chats/{id}/chat_messages{?page,limit}](http://chat.dev/api/chats/1/chat_messages?page=1&limit=5) **
-  - **[POST /api/chats/{id}/chat_messages](http://chat.dev/api/chats/1/chat_messages) **
+  - [POST /api/auth/login](http://chat.dev/api/auth/login)   
+  - [GET /api/auth/logout](http://chat.dev/api/auth/logout) 
+  - [POST /api/users](http://chat.dev/api/users) 
+  - [GET /api/users/current](http://chat.dev/api/users/current) 
+  - [PATCH /api/users/current](http://chat.dev/api/users/current) 
+  - [GET /api/chats{?page,limit}](http://chat.dev/api/chats?page=1&limit=5) 
+  - [POST /api/chats](http://chat.dev/api/chats) 
+  - [PATCH /api/chats/{id}](http://chat.dev/api/chats/1) 
+  - [GET /api/chats/{id}/chat_messages{?page,limit}](http://chat.dev/api/chats/1/chat_messages?page=1&limit=5) 
+  - [POST /api/chats/{id}/chat_messages](http://chat.dev/api/chats/1/chat_messages) 
